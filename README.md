@@ -30,8 +30,8 @@ https://github.com/user-attachments/assets/64295738-987a-4309-811a-c8805d788e05
 Only for educational purposes.
 
 ### References
-https://github.com/Barakat/CVE-2019-16098
-https://github.com/RedCursorSecurityConsulting/PPLKiller
+* https://github.com/Barakat/CVE-2019-16098
+* https://github.com/RedCursorSecurityConsulting/PPLKiller
 
 
 
