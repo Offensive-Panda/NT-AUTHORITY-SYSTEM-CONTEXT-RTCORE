@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/64295738-987a-4309-811a-c8805d788e05
 * Elevated with System Context.
 
 ## Usage 
-* Build and compile the program with visual studio 2029
+* Build and compile the program with visual studio 2019
 * Start service before execution of compiled binary.
 * Run command to create service (sc create RTCORE64 binPath="Path of Driver File" type=kernel)
 * Start the service (sc start RTCORE64
